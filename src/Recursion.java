@@ -1,3 +1,9 @@
+//Programmer: Sofia Lacki
+//Class: CS145
+//Professor: Darrell Criss
+//Purpose: Practice reading and applying recursive methods using Pascal's Triangle
+//  and other exercises.
+
 import java.util.Scanner;
 
 public class Recursion {
